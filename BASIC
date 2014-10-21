@@ -1,1 +1,14 @@
-basic of oracle
+cookies--------> the memory of browser (unique id,lifetime,servername) its a file download from your site secod time your browser 
+will access this befor login
+
+difference b/w save password in broswer and cookies
+
+1 cookies is for specific time and save password is  permanant
+
+2 save password is browser and computer depandant but not cookie
+
+HOW TO SET COOKIE IN PYRAMID ------->
+
+we need to add cookie to response with cookies name(key value format),time(lifetime) and cookie path also default /
+
+
